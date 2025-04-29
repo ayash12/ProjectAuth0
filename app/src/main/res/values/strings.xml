@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectAuth</string>
+
+        <!-- Tambahkan ini -->
+        <string name="com_auth0_client_id">DhrWEVpL2s9ikuR7yfzmPI5NrCpzy5uk</string>
+        <string name="com_auth0_domain">dev-agdpouo6xsrxgrjp.us.auth0.com</string>
+
+</resources>
