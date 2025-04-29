@@ -97,9 +97,5 @@ dependencies {
     implementation libs.lifecycle.livedata.ktx
     implementation libs.androidx.lifecycle.runtime.compose
 
-    testImplementation "io.mockk:mockk:1.13.5"
-    androidTestImplementation "androidx.navigation:navigation-testing:2.6.0"
-    androidTestImplementation "androidx.compose.ui:ui-test-junit4:1.5.1"
-    debugImplementation "androidx.compose.ui:ui-test-manifest:1.5.1"
 }
 
